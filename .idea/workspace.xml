@@ -37,6 +37,9 @@
   "keyToString": {
     "Application.Helloworld.executor": "Run",
     "Application.code2.executor": "Run",
+    "Application.damn.executor": "Run",
+    "Application.scan.executor": "Run",
+    "Application.scanp.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",

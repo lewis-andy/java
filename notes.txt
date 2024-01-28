@@ -1,0 +1,10 @@
+1. Class: The class is a blueprint (plan) of the instance of a class (object). It can be defined as a logical template that share common properties and methods.
+
+Example1: Blueprint of the house is class.
+Example2: In real world, Alice is an object of the “Human” class.
+2. Object: The object is an instance of a class. It is an entity that has behavior and state.
+
+Example: Dog, Cat, Monkey etc. are the object of “Animal” class.
+Behavior: Running on the road.
+3. Method: The behavior of an object is the method.
+
