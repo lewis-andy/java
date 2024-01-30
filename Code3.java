@@ -1,3 +1,6 @@
+/*For this program, You will find the code to calculate
+marks for undergraduate students in kenyan universities.
+*/
 import java.util.Scanner;
 
 public class Code3 {
