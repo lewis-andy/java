@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8b17c304-988e-45ac-9d5b-1875115a6a7d" name="Changes" comment="" />
+    <list default="true" id="8b17c304-988e-45ac-9d5b-1875115a6a7d" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/Code3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java/Code3.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -34,6 +38,8 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.Code3.executor": "Run",
+    "Application.Code4ifelse.executor": "Run",
+    "Application.EvenOrOdd.executor": "Run",
     "Application.Helloworld.executor": "Run",
     "Application.code2.executor": "Run",
     "Application.damn.executor": "Run",
