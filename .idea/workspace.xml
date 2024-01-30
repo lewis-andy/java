@@ -35,6 +35,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Code3.executor": "Run",
     "Application.Helloworld.executor": "Run",
     "Application.code2.executor": "Run",
     "Application.damn.executor": "Run",

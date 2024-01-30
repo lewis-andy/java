@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8b17c304-988e-45ac-9d5b-1875115a6a7d" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/scanp.java" beforeDir="false" afterPath="$PROJECT_DIR$/scanp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code3.java" beforeDir="false" afterPath="$PROJECT_DIR$/Code3.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,8 +36,11 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Code3.executor": "Run",
     "Application.Helloworld.executor": "Run",
     "Application.code2.executor": "Run",
+    "Application.damn.executor": "Run",
+    "Application.scan.executor": "Run",
     "Application.scanp.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
