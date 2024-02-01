@@ -6,8 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="8b17c304-988e-45ac-9d5b-1875115a6a7d" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EvenOrOdd.java" beforeDir="false" afterPath="$PROJECT_DIR$/EvenOrOdd.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java/Code3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java/Code3.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,6 +37,7 @@
   "keyToString": {
     "Application.Code3.executor": "Run",
     "Application.Code4ifelse.executor": "Run",
+    "Application.EvenOrOdd.executor": "Run",
     "Application.Helloworld.executor": "Run",
     "Application.code2.executor": "Run",
     "Application.damn.executor": "Run",
@@ -49,16 +48,15 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/lewis/Documents/Java/java"
+    "last_opened_file_path": "C:/Users/lewis/Documents/Java/java",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="SharedIndexes">
-    <attachedChunks>
-      <set>
-        <option value="jdk-18.0.2-semeru-18.0.2-f644763e9732-43e67a7d" />
-      </set>
-    </attachedChunks>
-  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -67,7 +65,11 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1705684050145</updated>
+      <workItem from="1706726689957" duration="1276000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
 </project>
