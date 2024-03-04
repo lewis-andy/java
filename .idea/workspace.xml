@@ -5,7 +5,31 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8b17c304-988e-45ac-9d5b-1875115a6a7d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/lesson/lesson.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CatMarks.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ColumnsExample1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EvenOrOdd.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ForLoop.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Helloworld.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IfElseExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Infinite.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MultiplicationTable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Negative.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OddNumbersBetweenRange.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OddNumbersSum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RectangularShape1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Shift.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/code2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/converter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/damn.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oddNo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/OddNumbersBetweenRange.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/triangularShape1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/triangularShape2.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,31 +57,43 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Code3.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Code4ifelse.executor&quot;: &quot;Run&quot;,
-    &quot;Application.EvenOrOdd.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Helloworld.executor&quot;: &quot;Run&quot;,
-    &quot;Application.OddNumbersBetweenRange.executor&quot;: &quot;Run&quot;,
-    &quot;Application.code2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.damn.executor&quot;: &quot;Run&quot;,
-    &quot;Application.scan.executor&quot;: &quot;Run&quot;,
-    &quot;Application.scanp.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/lewis/Documents/Java/java&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Code3.executor": "Run",
+    "Application.Code4ifelse.executor": "Run",
+    "Application.EvenOrOdd.executor": "Run",
+    "Application.Helloworld.executor": "Run",
+    "Application.OddNumbersBetweenRange.executor": "Run",
+    "Application.RectangularShape1.executor": "Run",
+    "Application.code2.executor": "Run",
+    "Application.damn.executor": "Run",
+    "Application.scan.executor": "Run",
+    "Application.scanp.executor": "Run",
+    "Application.shape.executor": "Run",
+    "Application.triangularShape1.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "jdk.selected.JAVA_MODULE": "semeru-18",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/lewis/Documents/Java/java",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-18.0.2-semeru-18.0.2-4caba194b151-a7a125cd" />
+      </set>
+    </attachedChunks>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -67,7 +103,10 @@
       <option name="presentableId" value="Default" />
       <updated>1705684050145</updated>
       <workItem from="1706726689957" duration="2137000" />
-      <workItem from="1708112410819" duration="306000" />
+      <workItem from="1708112410819" duration="962000" />
+      <workItem from="1708153771216" duration="409000" />
+      <workItem from="1709584951406" duration="56000" />
+      <workItem from="1709585032138" duration="1091000" />
     </task>
     <servers />
   </component>
